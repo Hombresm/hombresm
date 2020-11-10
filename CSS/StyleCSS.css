@@ -1,0 +1,271 @@
+@charset "utf-8";
+/* CSS Document */
+body{background-color:#363636;
+    padding: 0px;
+    margin: 0px;
+}
+
+header {width: 90%;
+height: auto;
+margin: auto;
+
+}
+
+nav {width: 90%;
+height:auto;
+background-color: #797979;
+margin:auto}
+
+ul{list-style-type: none;
+padding: 0px;
+overflow: hidden;
+margin-left: 180px;}
+
+li{float: left}
+li a{color:#0B0B0B;
+font-size: 30px;
+font-family: anton;
+    text-decoration: none;
+    padding: 20px 30px;
+    display: block
+}
+
+li a:hover {color: #0B0B0B;
+background-color: #d75480}
+ 
+.box81 {width: 88%;
+height: auto;
+background-color:#0b0b0b;
+margin: auto;
+overflow: hidden;
+padding: 1%;
+margin-bottom: 10px;
+}
+.boxvideoyoutube {width: 41%;
+height: 300px;
+background-color:#333333;
+color: aliceblue;
+float: left;
+margin-left:auto;
+padding: 1%;
+font-family:NanumGothic;
+font-size: 16px;
+text-align:left;
+overflow: auto	
+} 
+
+.boxparrafop {width: 50%;
+height: 300px;
+background-color:none;
+float: left;
+margin-left: 1%;
+padding: 1%;
+font-family:"arial";
+font-size: 16px;
+text-align:left;
+}
+ 
+.box1 {width: 88%;
+height: auto;
+background-color:#0B0B0B;
+margin: auto;
+overflow: hidden;
+padding: 1%;
+margin-bottom: 10px;
+}
+
+.BOXVIDEOHOMBRESM {width:auto;
+height: auto;
+background-color:aqua;
+float:none;
+margin-left:auto;
+padding:1%;
+font-family:"arial";
+font-size: 16px;
+text-align: justify;
+left: 50%;
+transfore: translateX(-50%)
+}
+.boxentrehilos {width:auto;
+height: auto;
+background-color:none;
+float:none;
+margin-left:auto;
+padding:1%;
+font-family:"arial";
+font-size: 16px;
+text-align: justify;
+left: 50%;
+transfore: translateX(-50%)
+}
+.boxlineadetiempo{width:auto;
+height: auto;
+background-color: #FFFFFF;
+float:none;
+margin-left:auto;
+padding:1%;
+font-family:"arial";
+font-size: 16px;
+text-align: justify;
+left: 50%;
+transfore: translateX(-50%)
+}
+.boxmapa {width:auto;
+height: auto;
+background-color: #FFFFFF;
+float:none;
+margin-left:auto;
+padding:1%;
+font-family:"arial";
+font-size: 16px;
+text-align: justify;
+left: 50%;
+transfore: translateX(-50%)
+}
+.box10 {width: 88%;
+height: auto;
+background-color:#0B0B0B;
+margin: auto;
+overflow: hidden;
+padding: 1%;
+margin-bottom: 10px;
+}
+.boxfoto1 {width: 30%;
+height: 240px;
+background-color:#0b0b0b;
+float: left;
+margin-left: 1%;
+padding: 1%;
+font-family:"arial";
+font-size: 16px;
+text-align:left;
+}
+
+.boxtexto1 {width: 41%;
+height: 240px;
+background-color:#333333;
+float: left;
+margin-left: 1%;
+padding: 1%;
+font-family:NanumGothic;
+font-size: 16px;
+text-align:left;
+overflow: auto;
+color: aliceblue
+}
+.boxaudio1 {width: 20%;
+height: 240px;
+background-color:#0b0b0b;
+float:right;
+margin-left: 1%;
+padding: 1%;
+font-family:"arial";
+font-size: 16px;
+text-align:right;
+}
+.box11 {width: 88%;
+height: auto;
+background-color:#0B0B0B;
+margin: auto;
+overflow: hidden;
+padding: 1%;
+margin-bottom: 10px;
+}
+
+.boxfoto2 {width: 30%;
+height: 240px;
+background-color:#0B0B0B;
+float: left;
+margin-left: 1%;
+padding: 1%;
+font-family:"arial";
+font-size: 16px;
+text-align:left;
+}
+.boxtexto2 {width: 41%;
+height: 240px;
+background-color:#333333;
+float: left;
+margin-left: 1%;
+padding: 1%;
+font-family:NanumGothic;
+font-size: 16px;
+text-align:left;
+overflow: auto;
+color: aliceblue
+	
+}
+.boxaudio3 {width: 20%;
+height: 240px;
+background-color:#0B0B0B;
+float:right;
+margin-left: 1%;
+padding: 1%;
+font-family:"arial";
+font-size: 16px;
+text-align:right;
+} 
+.box12 {width: 88%;
+height: auto;
+background-color:#363636;
+margin: auto;
+overflow: hidden;
+padding: 1%;
+margin-bottom: 10px;
+}
+
+.boxsouncloud1 {width: 44%;
+height: 240px;
+background-color:#FFFFFF;
+float:right;
+margin-left: 1%;
+padding: 1%;
+font-family:"arial";
+font-size: 16px;
+text-align:left;
+}
+.boxsouncloud2 {width: 44%;
+height: 240px;
+background-color:#FFFFFF;
+float: left;
+margin-left: 1%;
+padding: 1%;
+font-family:"arial";
+font-size: 16px;
+text-align:left;
+} 
+.boxsoundcloud3 {width: 44%;
+height: 240px;
+background-color:#FFFFFF;
+float: left;
+margin-left: 1%;
+padding: 1%;
+font-family:"arial";
+font-size: 16px;
+text-align:left;
+} 
+.boxsoundcloud4 {width: 44%;
+height: 240px;
+background-color:#FFFFFF;
+float:right;
+margin-left: 1%;
+padding: 1%;
+font-family:"arial";
+font-size: 16px;
+text-align:left;
+}
+
+h1{ color: aliceblue;
+	font-size: 5em;
+	text-align: center;
+	font-family:NanumGothic
+}
+
+footer {width: 86%;
+height: auto;
+background-color:#0B0B0B;
+margin: auto;
+padding: 2%;
+text-align: center;	
+}
+
